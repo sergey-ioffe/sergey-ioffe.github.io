@@ -11,9 +11,13 @@ nav ol>li {
   font-weight: bold;
 }  
 
-h1 i, footer i, hr {
+h1 i, footer i, section em, hr {
   display: none;
 }
+
+section {
+  margin-bottom: 2rem;
+}  
 
 ul, ol, li {
   padding: 0;
