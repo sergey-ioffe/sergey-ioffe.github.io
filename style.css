@@ -3,6 +3,14 @@ body {
   font-size: larger;
 }  
 
+a {
+  text-decoration: none;
+}
+
+nav ol>li {
+  font-weight: bold;
+}  
+
 h1 i, footer i, hr {
   display: none;
 }
