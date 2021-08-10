@@ -1,3 +1,10 @@
-* {
+body {
   font-family: sans-serif;
+  font-size: larger;
 }  
+
+h1 i, footer i, hr {
+  display: none;
+}
+
+
