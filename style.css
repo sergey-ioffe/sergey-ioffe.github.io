@@ -7,4 +7,20 @@ h1 i, footer i, hr {
   display: none;
 }
 
+ul, ol, li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
 
+.inline {
+  display: inline-block;
+}  
+
+.centered {
+  text-align: center;
+}
+
+.no-display {
+   display: none;
+}  
