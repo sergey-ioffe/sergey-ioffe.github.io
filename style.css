@@ -11,6 +11,11 @@ body {
   text-align: center;
 }
 
+.homepage h1 {
+  font-size: 3em;
+  letter-spacing: -.1em;
+}  
+
 .homepage footer>p {
   position: absolute;
   bottom: 1px;
@@ -96,7 +101,7 @@ ul, ol, li {
   display: block;
   width: 48px;
   height: 48px;
-  border: .1em solid black;
+  border: 3px solid black;
   border-radius: 50%;
   background-size: 28px;
 }
