@@ -12,18 +12,19 @@ body {
 }
 
 .homepage h1 {
-  font-size: 3em;
-  letter-spacing: -.1em;
+  font-size: 5em;
+  letter-spacing: -.05em;
 }  
 
 .homepage footer>p {
   position: absolute;
-  bottom: 1px;
+  bottom: 1em;
   left: auto;
   width: 100%;
   text-align: center;
-  font-size: 1em;
+  font-size: .5em;
   opacity: .15;
+  margin-bottom: 0;
 }
 
 
