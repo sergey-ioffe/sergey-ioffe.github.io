@@ -40,12 +40,12 @@ ul, ol, li {
 
 
 .soc {
-  margin-left: -.25em;
+  margin-left: -.2em;
 }  
 
 .soc li {
   display: inline-block;
-  padding: 0 .25em;
+  padding: 0 .2em;
 }
 
 .soc li>a {
@@ -54,6 +54,7 @@ ul, ol, li {
   height: 48px;
   border: .1em solid black;
   border-radius: 50%;
+  background-size: 32px;
 }
 
 .soc li>a span {
@@ -62,5 +63,16 @@ ul, ol, li {
 
 .facebook {
   background: center no-repeat url(https://sergeyioffe.github.io/images/pict-facebook.png);
-  background-size: 32px;
+}  
+.twitter {
+  background: center no-repeat url(https://sergeyioffe.github.io/images/pict-twitter.png);
+}  
+.instagram {
+  background: center no-repeat url(https://sergeyioffe.github.io/images/pict-insta.png);
+}  
+.pinterest {
+  background: center no-repeat url(https://sergeyioffe.github.io/images/pict-pinterest.png);
+}  
+.youtube {
+  background: center no-repeat url(https://sergeyioffe.github.io/images/pict-youtube.png);
 }  
