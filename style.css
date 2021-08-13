@@ -14,11 +14,16 @@ body {
 .homepage h1 {
   font-size: 5em;
   letter-spacing: -.05em;
+  margin-bottom: 0;
+}
+
+.homepage h1>a, .homepage h3>a {
+  color: black;
 }  
 
 .homepage footer>p {
   position: absolute;
-  bottom: 1em;
+  bottom: .5em;
   left: auto;
   width: 100%;
   text-align: center;
@@ -90,12 +95,12 @@ ul, ol, li {
 
 
 .soc {
-  margin-left: -.2em;
+  margin-left: -.15em;
 }  
 
 .soc li {
   display: inline-block;
-  padding: 0 .2em;
+  padding: 0 .15em;
 }
 
 .soc li>a {
