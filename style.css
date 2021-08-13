@@ -54,7 +54,7 @@ ul, ol, li {
   height: 48px;
   border: .1em solid black;
   border-radius: 50%;
-  background-size: 32px;
+  background-size: 28px;
 }
 
 .soc li>a span {
