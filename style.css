@@ -50,6 +50,10 @@ ul, ol, li {
   height: 32px;
 }
 
+.soc li>a span {
+  display: none;
+}  
+
 .facebook {
   background: no-repeat 32px 32px url(https://sergeyioffe.github.io/images/pict-facebook.png);
 }  
