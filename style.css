@@ -46,9 +46,9 @@ ul, ol, li {
 
 .soc li>a {
   display: inline-block;
-  width: 32px;
-  height: 32px;
-  border: 2px solid black;
+  width: 48px;
+  height: 48px;
+  border: 3px solid black;
   border-radius: 50%;
 }
 
@@ -57,5 +57,5 @@ ul, ol, li {
 }  
 
 .facebook {
-  background: center no-repeat 24px 24px url(https://sergeyioffe.github.io/images/pict-facebook.png);
+  background: center no-repeat 32px 32px url(https://sergeyioffe.github.io/images/pict-facebook.png);
 }  
