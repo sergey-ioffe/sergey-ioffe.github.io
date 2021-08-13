@@ -39,9 +39,13 @@ ul, ol, li {
 
 
 
+.soc {
+  margin-left: -.25em;
+}  
 
 .soc li {
   display: inline-block;
+  padding: 0 .25em;
 }
 
 .soc li>a {
@@ -57,5 +61,5 @@ ul, ol, li {
 }  
 
 .facebook {
-  background: center no-repeat 32px 32px url(https://sergeyioffe.github.io/images/pict-facebook.png);
+  background: center no-repeat url(https://sergeyioffe.github.io/images/pict-facebook.png);
 }  
