@@ -52,7 +52,7 @@ ul, ol, li {
   display: inline-block;
   width: 48px;
   height: 48px;
-  border: 3px solid black;
+  border: 2px solid black;
   border-radius: 50%;
 }
 
@@ -62,4 +62,5 @@ ul, ol, li {
 
 .facebook {
   background: center no-repeat url(https://sergeyioffe.github.io/images/pict-facebook.png);
+  background-size: 32px;
 }  
