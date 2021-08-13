@@ -3,6 +3,10 @@ body {
   font-size: 5rem;
 }  
 
+p {
+  margin-bottom: 2em;
+}  
+
 a {
   text-decoration: none;
 }
