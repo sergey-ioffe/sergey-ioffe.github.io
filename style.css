@@ -12,7 +12,7 @@ body {
 }
 
 .homepage h1 {
-  font-size: 5em;
+  font-size: 300%;
   letter-spacing: -.05em;
   margin-bottom: 0;
 }
@@ -47,7 +47,6 @@ a {
 }
 
 nav ol {
-  margin-left: -1em;
 }  
 
 nav ol>li {
