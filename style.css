@@ -39,7 +39,7 @@ body {
 
 
 p {
-  margin-bottom: 2em;
+  margin-bottom: 2.5em;
 }  
 
 a {
@@ -99,12 +99,12 @@ ul, ol, li {
 
 
 .soc {
-  margin-left: -.15em;
+  margin-left: -.1em;
 }  
 
 .soc li {
   display: inline-block;
-  padding: 0 .15em;
+  padding: 0 .1em;
 }
 
 .soc li>a {
