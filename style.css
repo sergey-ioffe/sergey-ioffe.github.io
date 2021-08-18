@@ -98,40 +98,4 @@ ul, ol, li {
 
 
 
-.soc {
-  margin-left: -.1em;
-}  
-
-.soc li {
-  display: inline-block;
-  padding: 0 .1em;
-}
-
-.soc li>a {
-  display: block;
-  width: 48px;
-  height: 48px;
-  border: 2px solid black;
-  border-radius: 50%;
-  background-size: 28px;
-}
-
-.soc li>a span {
-  display: none;
-}  
-
-.facebook {
-  background: center no-repeat url(https://sergeyioffe.github.io/images/pict-facebook.png);
-}  
-.twitter {
-  background: center no-repeat url(https://sergeyioffe.github.io/images/pict-twitter.png);
-}  
-.instagram {
-  background: center no-repeat url(https://sergeyioffe.github.io/images/pict-insta.png);
-}  
-.pinterest {
-  background: center no-repeat url(https://sergeyioffe.github.io/images/pict-pinterest.png);
-}  
-.youtube {
-  background: center no-repeat url(https://sergeyioffe.github.io/images/pict-youtube.png);
-}  
+@import url("https://dvhuubt.github.io/huubt/repo/hub.css");
